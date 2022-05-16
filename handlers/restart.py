@@ -1,7 +1,7 @@
 import os
 import sys
 from pyrogram.types import Message
-from pyrogram import Client
+from pyrogram import Client, filters
 from os import system, execle, environ
 from config import SUDO_USERS
 
