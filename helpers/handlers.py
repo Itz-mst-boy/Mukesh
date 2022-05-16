@@ -8,7 +8,7 @@ from pytgcalls.types.input_stream.quality import (
 )
 from pytgcalls.types.stream import StreamAudioEnded, StreamVideoEnded
 
-from config import bot1, call_py
+from main import bot1, call_py
 from helpers.queues import QUEUE, clear_queue, get_queue, pop_an_item
 
 
