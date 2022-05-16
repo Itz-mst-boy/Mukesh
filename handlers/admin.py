@@ -1,7 +1,7 @@
 from pyrogram import Client
 from pyrogram.types import Message
 from helpers.command import commandpro
-from config import call_py
+from main import call_py
 from helpers.decorators import errors, sudo_users_only
 from helpers.handlers import skip_current_song, skip_item
 from helpers.queues import QUEUE, clear_queue

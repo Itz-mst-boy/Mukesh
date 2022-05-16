@@ -1,7 +1,7 @@
 import os
 from pyrogram import Client
 from pyrogram.types import Message
-from HeroUserbot.helpers.command import commandpro
+from helpers.command import commandpro
 
 
 @Client.on_message(commandpro(["/cl", "!cl", "Cl", "/cleanup", "Cleanup", "!cleanup", "Fresh"]))
