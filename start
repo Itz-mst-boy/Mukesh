@@ -1,4 +1,4 @@
-git clone https://github.com/Shailendra34/HERO-USERBOT Hero
-cd Hero
+git clone https://github.com/Shailendra34/HERO-USERBOT HERO-USERBOT
+cd HERO-USERBOT
 pip3 install -U -r requirements.txt
 python3 main.py
