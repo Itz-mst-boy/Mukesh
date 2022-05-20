@@ -46,7 +46,7 @@ async def update(client: Client, message: Message):
     HEROKU_API = HEROKU_API
 
     REPO_ = environ.get(
-    "UPSTREAM_REPO", "https://github.com/ITZ-ZAID/ZAID-USERBOT"
+    "UPSTREAM_REPO", "https://github.com/Itz-mst-boy/mukhushi-userbot"
     )
 
     U_BRANCH = "main"
