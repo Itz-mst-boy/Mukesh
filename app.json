@@ -1,7 +1,7 @@
 {
     "name": "Mukhushi-Userbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg",
+    "logo": "https://telegra.ph/file/a932394f6b7d106e66cc5.jpg",
     "repository": "https://github.com/Itz-mst-boy/mukhushi-userbot",
     "env": {
         "STRING_SESSION1": {
