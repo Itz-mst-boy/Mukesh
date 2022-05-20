@@ -35,5 +35,4 @@ pymediainfo
 gpytranslate
 gtts
 tracemoepy
-git+https://github.com/MrAdityaXD/yt-dl@master
 py-tgcalls
