@@ -228,20 +228,20 @@ async def awake(client: Client, e: Message):
             ids += 1
         if bot50:
             ids += 1
-        Alive_msg = f"𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
+        Alive_msg = f"ᴍᴜᴋʜsʜɪ ᴜsᴇʀʙᴏᴛ ɪs ᴏɴ ғɪʀᴇ 🔥 \n\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
         Alive_msg += f"► Vᴇʀsɪᴏɴ : `Beta.0.1` \n"
         Alive_msg += f"► ᴘʏʀᴏ ᴠᴇʀsɪᴏɴ : `{pyro_vr}` \n"
         Alive_msg += f"► Aᴄᴛɪᴠᴇ IDs : `{ids}` \n"
-        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ.](https://t.me/Superior_Support) \n"
+        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ.](https://t.me/worldwide_friend_zone) \n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply_text(photo=ALIVE_PIC, caption=Alive_msg)
     except Exception as lol:         
-        Alive_msg = f"𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐈𝐬 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥 \n\n"
+        Alive_msg = f"ᴍᴜᴋʜᴜʜsʜɪ ᴜsᴇʀʙᴏᴛ ɪs ᴏɴ ғɪʀᴇ 🔥 \n\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
         Alive_msg += f"► ᴠᴇʀsɪᴏɴ : `Beta.0.1` \n"
         Alive_msg += f"► Pʏʀᴏ ᴠᴇʀsɪᴏɴ : `1.4.15` \n"
-        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ](https://t.me/Superior_Support) \n"
+        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ](https://t.me/worldwide_friend_zone) \n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply_photo(photo=ALIVE_PIC, caption=Alive_msg)
 
