@@ -1,8 +1,8 @@
 {
-    "name": "Zaid-Userbot",
+    "name": "Mukhushi-Userbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
     "logo": "https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg",
-    "repository": "https://github.com/Itz-Zaid/Zaid-Userbot",
+    "repository": "https://github.com/Itz-mst-boy/mukhushi-userbot",
     "env": {
         "STRING_SESSION1": {
             "description": "pyrogram string session here",
@@ -213,7 +213,7 @@
             "required": false
         },
         "LOG_GROUP": {
-            "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @Zaid2_Robot and type /id, if channel then forward a message to @Zaid2_Robot.)",
+            "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @groupcontrollertgbot and type /id, if channel then forward a message to @groucontrollertgbot)",
             "required": false
         },
         "SUDO_USERS": {
