@@ -18,7 +18,7 @@ sᴘᴀᴍᴍɪɴɢ...**
 # 🚀 ʜᴇʀᴏᴋᴜ  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
-[![ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-mst-boy/mukhushi-userbot)
+[![ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-mst-boy/Mukesh)
 
 # sᴛʀɪɴɢ  ɢᴇɴᴇʀᴀᴛᴏʀ 
 [sᴛʀɪɴɢ   sᴇssɪᴏɴ ʙᴏᴛ](https://t.me/itz_string_session_bot)
