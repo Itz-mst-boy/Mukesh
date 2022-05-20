@@ -112,7 +112,7 @@ async def savnana(client: Client, message: Message):
     urlretrieve(urrl, title + ".mp3")
     urlretrieve(img, title + ".jpg")
     file= wget.download(urrl)
-    await client.send_audio(message.chat.id,file,caption=f"Song from saavan uploaded by king Userbot \n Song name={title}\n Singers={singers}" )   
+    await client.send_audio(message.chat.id,file,caption=f"Song from saavan uploaded by Mukhushi Userbot \n Song name={title}\n Singers={singers}" )   
     await lol.delete()
     os.remove(title + ".mp3")
     os.remove(title + ".jpg")
