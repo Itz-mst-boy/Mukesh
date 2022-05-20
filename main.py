@@ -23,17 +23,17 @@ DB_URL = DB_URL
 if ALIVE_IMG:
     ALIVE_PIC = ALIVE_IMG
 else: 
-    ALIVE_PIC = 'https://te.legra.ph/file/a4c16c60dd1c46bbe7385.jpg'
+    ALIVE_PIC = 'https://telegra.ph/file/2d6fde48f3169069be42d.jpg'
 
 if MONGO_DB:
     MONGO_DB = MONGO_DB
 else: 
-    MONGO_DB = "mongodb+srv://Zaid:Zaid@cluster0.4bszo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    MONGO_DB = "mongodb+srv://Mukesh01:mstboy@cluster0.8jwzl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 if LOG_GROUP:
     Owner = LOG_GROUP
 else:
-    Owner = 1323020756
+    Owner = 5142140533
 
 if STRING_SESSION1:
     bot1 = Client(session_name= STRING_SESSION1, api_id = API_ID, api_hash = API_HASH , plugins=dict(root="handlers"))
@@ -295,207 +295,207 @@ START_TIME = datetime.now()
 
 if bot1:
     bot1.start()
-    bot1.join_chat("Superior_Bots")
-    bot1.join_chat("Superior_Support")
+    bot1.join_chat("mastermind_network_official")
+    bot1.join_chat("worldwide_friend_zone")
 if bot2:
     bot2.start()
-    bot2.join_chat("Superior_Bots")
-    bot2.join_chat("Superior_Support")
+    bot2.join_chat("mastermind_network_official")
+    bot2.join_chat("worldwide_friend_zone")
 if bot3:
     bot3.start()
-    bot3.join_chat("Superior_Bots")
-    bot3.join_chat("Superior_Support")
+    bot3.join_chat("mastermind_network_official")
+    bot3.join_chat("worldwide_friend_zone")
 if bot4:
     bot4.start()
-    bot4.join_chat("Superior_Bots")
-    bot4.join_chat("Superior_Support")
+    bot4.join_chat("mastermind_network_official")
+    bot4.join_chat("worldwide_friend_zone")
 if bot5:
     bot5.start()
-    bot5.join_chat("Superior_Bots")
-    bot5.join_chat("Superior_Support")
+    bot5.join_chat("mastermind_network_official")
+    bot5.join_chat("worldwide_friend_zone")
 if bot6:
     bot6.start()
-    bot6.join_chat("Superior_Bots")
-    bot6.join_chat("Superior_Support")
+    bot6.join_chat("mastermind_network_official")
+    bot6.join_chat("worldwide_friend_zone")
 if bot7:
     bot7.start()
-    bot7.join_chat("Superior_Bots")
-    bot7.join_chat("Superior_Support")
+    bot7.join_chat("mastermind_network_official")
+    bot7.join_chat("worldwide_friend_zone")
 if bot8:
     bot8.start()
-    bot8.join_chat("Superior_Bots")
-    bot8.join_chat("Superior_Support")
+    bot8.join_chat("mastermind_network_official")
+    bot8.join_chat("worldwide_friend_zone")
 if bot9:
     bot9.start()
-    bot9.join_chat("Superior_Bots")
-    bot9.join_chat("Superior_Support")
+    bot9.join_chat("mastermind_network_official")
+    bot9.join_chat("worldwide_friend_zone")
 if bot:
     bot.start()
-    bot.join_chat("Superior_Bots")
-    bot.join_chat("Superior_Support")
+    bot.join_chat("mastermind_network_official")
+    bot.join_chat("worldwide_friend_zone")
 if bot11:
     bot11.start()
-    bot11.join_chat("Superior_Bots")
-    bot11.join_chat("Superior_Support")
+    bot11.join_chat("mastermind_network_official")
+    bot11.join_chat("worldwide_friend_zone")
 if bot12:
     bot12.start()
-    bot12.join_chat("Superior_Bots")
-    bot12.join_chat("Superior_Support")
+    bot12.join_chat("mastermind_network_official")
+    bot12.join_chat("worldwide_friend_zone")
 if bot13:
     bot13.start()
-    bot13.join_chat("Superior_Bots")
-    bot13.join_chat("Superior_Support")
+    bot13.join_chat("mastermind_network_official")
+    bot13.join_chat("worldwide_friend_zone")
 if bot14:
     bot14.start()
-    bot14.join_chat("Superior_Bots")
-    bot14.join_chat("Superior_Support")
+    bot14.join_chat("mastermind_network_official")
+    bot14.join_chat("worldwide_friend_zone")
 if bot15:
     bot15.start()
-    bot15.join_chat("Superior_Bots")
-    bot15.join_chat("Superior_Support")
+    bot15.join_chat("mastermind_network_official")
+    bot15.join_chat("worldwide_friend_zone")
 if bot16:
     bot16.start()
-    bot16.join_chat("Superior_Bots")
-    bot16.join_chat("Superior_Support")
+    bot16.join_chat("mastermind_network_official")
+    bot16.join_chat("worldwide_friend_zone")
 if bot17:
     bot17.start()
-    bot17.join_chat("Superior_Bots")
-    bot7.join_chat("Superior_Support")
+    bot17.join_chat("mastermind_network_official")
+    bot7.join_chat("worldwide_friend_zone")
 if bot18:
     bot18.start()
-    bot18.join_chat("Superior_Bots")
-    bot18.join_chat("Superior_Support")
+    bot18.join_chat("mastermind_network_official")
+    bot18.join_chat("worldwide_friend_zone")
 if bot19:
     bot19.start()
-    bot19.join_chat("Superior_Bots")
-    bot19.join_chat("Superior_Support")
+    bot19.join_chat("mastermind_network_official")
+    bot19.join_chat("worldwide_friend_zone")
 if bot20:
     bot20.start()
-    bot20.join_chat("Superior_Bots")
-    bot20.join_chat("Superior_Support")
+    bot20.join_chat("mastermind_network_official")
+    bot20.join_chat("worldwide_friend_zone")
 if bot21:
     bot21.start()
-    bot21.join_chat("Superior_Bots")
-    bot21.join_chat("Superior_Support")
+    bot21.join_chat("mastermind_network_official")
+    bot21.join_chat("worldwide_friend_zone")
 if bot22:
     bot22.start()
-    bot22.join_chat("Superior_Bots")
-    bot22.join_chat("Superior_Support")
+    bot22.join_chat("mastermind_network_official")
+    bot22.join_chat("worldwide_friend_zone")
 if bot23:
     bot23.start()
-    bot23.join_chat("Superior_Bots")
-    bot23.join_chat("Superior_Support")
+    bot23.join_chat("mastermind_network_official")
+    bot23.join_chat("worldwide_friend_zone")
 if bot24:
     bot24.start()
-    bot24.join_chat("Superior_Bots")
-    bot24.join_chat("Superior_Support")
+    bot24.join_chat("mastermind_network_official")
+    bot24.join_chat("worldwide_friend_zone")
 if bot25:
     bot25.start()
-    bot25.join_chat("Superior_Bots")
-    bot25.join_chat("Superior_Support")
+    bot25.join_chat("mastermind_network_official")
+    bot25.join_chat("worldwide_friend_zone")
 if bot26:
     bot26.start()
-    bot26.join_chat("Superior_Bots")
-    bot26.join_chat("Superior_Support")
+    bot26.join_chat("mastermind_network_official")
+    bot26.join_chat("worldwide_friend_zone")
 if bot27:
     bot27.start()
-    bot27.join_chat("Superior_Bots")
-    bot27.join_chat("Superior_Support")
+    bot27.join_chat("mastermind_network_official")
+    bot27.join_chat("worldwide_friend_zone")
 if bot28:
     bot28.start()
-    bot28.join_chat("Superior_Bots")
-    bot28.join_chat("Superior_Support")
+    bot28.join_chat("mastermind_network_official")
+    bot28.join_chat("worldwide_friend_zone")
 if bot29:
     bot29.start()
-    bot29.join_chat("Superior_Bots")
-    bot29.join_chat("Superior_Support")
+    bot29.join_chat("mastermind_network_official")
+    bot29.join_chat("worldwide_friend_zone")
 if bot30:
     bot30.start()
-    bot30.join_chat("Superior_Bots")
-    bot30.join_chat("Superior_Support")
+    bot30.join_chat("mastermind_network_official")
+    bot30.join_chat("worldwide_friend_zone")
 if bot31:
     bot31.start()
-    bot31.join_chat("Superior_Bots")
-    bot31.join_chat("Superior_Support")
+    bot31.join_chat("mastermind_network_official")
+    bot31.join_chat("worldwide_friend_zone")
 if bot32:
     bot32.start()
-    bot32.join_chat("Superior_Bots")
-    bot32.join_chat("Superior_Support")
+    bot32.join_chat("mastermind_network_official")
+    bot32.join_chat("worldwide_friend_zone")
 if bot33:
     bot33.start()
-    bot33.join_chat("Superior_Bots")
-    bot33.join_chat("Superior_Support")
+    bot33.join_chat("mastermind_network_official")
+    bot33.join_chat("worldwide_friend_zone")
 if bot34:
     bot34.start()
-    bot34.join_chat("Superior_Bots")
-    bot34.join_chat("Superior_Support")
+    bot34.join_chat("mastermind_network_official")
+    bot34.join_chat("worldwide_friend_zone")
 if bot35:
     bot35.start()
-    bot35.join_chat("Superior_Bots")
-    bot35.join_chat("Superior_Support")
+    bot35.join_chat("mastermind_network_official")
+    bot35.join_chat("worldwide_friend_zone")
 if bot36:
     bot36.start()
-    bot36.join_chat("Superior_Bots")
-    bot36.join_chat("Superior_Support")
+    bot36.join_chat("mastermind_network_official")
+    bot36.join_chat("worldwide_friend_zone")
 if bot37:
     bot37.start()
-    bot37.join_chat("Superior_Bots")
-    bot37.join_chat("Superior_Support")
+    bot37.join_chat("mastermind_network_official")
+    bot37.join_chat("worldwide_friend_zone")
 if bot38:
     bot38.start()
-    bot38.join_chat("Superior_Bots")
-    bot38.join_chat("Superior_Support")
+    bot38.join_chat("mastermind_network_official")
+    bot38.join_chat("worldwide_friend_zone")
 if bot39:
     bot39.start()
-    bot39.join_chat("Superior_Bots")
-    bot39.join_chat("Superior_Support")
+    bot39.join_chat("mastermind_network_official")
+    bot39.join_chat("worldwide_friend_zone")
 if bot40:
     bot40.start()
-    bot40.join_chat("Superior_Bots")
-    bot40.join_chat("Superior_Support")
+    bot40.join_chat("mastermind_network_official")
+    bot40.join_chat("worldwide_friend_zone")
 if bot41:
     bot41.start()
-    bot41.join_chat("Superior_Bots")
-    bot41.join_chat("Superior_Support")
+    bot41.join_chat("mastermind_network_official")
+    bot41.join_chat("worldwide_friend_zone")
 if bot42:
     bot42.start()
-    bot42.join_chat("Superior_Bots")
-    bot42.join_chat("Superior_Support")
+    bot42.join_chat("mastermind_network_official")
+    bot42.join_chat("worldwide_friend_zone")
 if bot43:
     bot43.start()
-    bot43.join_chat("Superior_Bots")
-    bot43.join_chat("Superior_Support")
+    bot43.join_chat("mastermind_network_official")
+    bot43.join_chat("worldwide_friend_zone")
 if bot44:
     bot44.start()
-    bot44.join_chat("Superior_Bots")
-    bot44.join_chat("Superior_Support")
+    bot44.join_chat("mastermind_network_official")
+    bot44.join_chat("worldwide_friend_zone")
 if bot45:
     bot45.start()
-    bot45.join_chat("Superior_Bots")
-    bot45.join_chat("Superior_Support")
+    bot45.join_chat("mastermind_network_official")
+    bot45.join_chat("worldwide_friend_zone")
 if bot46:
     bot46.start()
-    bot46.join_chat("Superior_Bots")
-    bot46.join_chat("Superior_Support")
+    bot46.join_chat("mastermind_network_official")
+    bot46.join_chat("worldwide_friend_zone")
 if bot47:
     bot47.start()
-    bot47.join_chat("Superior_Bots")
-    bot47.join_chat("Superior_Support")
+    bot47.join_chat("mastermind_network_official")
+    bot47.join_chat("worldwide_friend_zone")
 if bot48:
     bot48.start()
-    bot48.join_chat("Superior_Bots")
-    bot48.join_chat("Superior_Support")
+    bot48.join_chat("mastermind_network_official")
+    bot48.join_chat("worldwide_friend_zone")
 if bot49:
     bot49.start()
-    bot49.join_chat("Superior_Bots")
-    bot49.join_chat("Superior_Support")
+    bot49.join_chat("mastermind_network_official")
+    bot49.join_chat("worldwide_friend_zone")
 if bot50:
     bot50.start()
-    bot50.join_chat("Superior_Bots")
-    bot50.join_chat("Superior_Support")
+    bot50.join_chat("mastermind_network_official")
+    bot50.join_chat("worldwide_friend_zone")
 
-print("🎉 Successfully Deployed 🎉 @Timesisnotwaiting")
-print("Enjoy! Do visit @Superiro_Bots")
+print("🎉 Successfully Deployed 🎉 @itz_mst_boy")
+print("Enjoy! Do visit @mastermind_network_official")
 
 idle()
 
