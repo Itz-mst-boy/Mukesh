@@ -15,24 +15,17 @@ sᴘᴀᴍᴍɪɴɢ...**
 - ᴀʟᴍᴏsᴛ 60 ᴘʟᴜɢɪɴs ᴛʜᴇʀᴇ ᴀᴅᴅɪɴɢ ᴍᴏʀᴇ ᴘʟᴜɢɪɴs sᴏᴏɴ
 - **ɪᴅ sᴀғᴇᴛʏ sᴘᴇᴄɪᴀʟʟʏ ғᴏʀ ғᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛs
 
-
-
-
-
-
-
-
-
 # 🚀 ʜᴇʀᴏᴋᴜ  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
 [![ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-mst-boy/mukhushi-userbot)
 
+# sᴛʀɪɴɢ  ɢᴇɴᴇʀᴀᴛᴏʀ 
 [sᴛʀɪɴɢ   sᴇssɪᴏɴ ʙᴏᴛ](https://t.me/itz_string_session_bot)
 
 
 
-#ᴄʀᴇᴅɪᴛ
+# ᴄʀᴇᴅɪᴛ
 
 [ᴍᴜᴋᴇsʜ](https://t.me/itz_mst_boy)
 
